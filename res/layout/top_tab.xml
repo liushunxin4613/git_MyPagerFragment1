@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+	<include android:id="@+id/tt_in0" layout="@layout/in_tv"/>
+	<include android:id="@+id/tt_in1" layout="@layout/in_tv"/>
+	<include android:id="@+id/tt_in2" layout="@layout/in_tv"/>
+    
+</LinearLayout>
