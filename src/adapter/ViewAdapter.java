@@ -32,13 +32,13 @@ public class ViewAdapter extends BaseAdapter {
 
 	@Override
 	public View getView(int position, View view, ViewGroup print) {
-		View mView = null;
-		ViewHolord holord = null;
-		if (mView == null) {
-			
-		} else {
-			
-		}
+//		View mView = null;
+//		ViewHolord holord = null;
+//		if (mView == null) {
+//			
+//		} else {
+//			
+//		}
 		
 		
 		

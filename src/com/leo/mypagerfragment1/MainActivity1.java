@@ -10,7 +10,6 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -23,7 +22,7 @@ import android.widget.LinearLayout.LayoutParams;
 
 public class MainActivity1 extends FragmentActivity implements OnClickListener,OnPageChangeListener{
 
-	private String tag = "MainActivity";
+//	private String tag = "MainActivity";
 
 	//当前标签的标记
 	private int index;
